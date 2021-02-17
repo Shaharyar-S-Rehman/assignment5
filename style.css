@@ -1,0 +1,84 @@
+#logo{
+    text-align: center;
+}
+#abc{
+    font-size: xx-large;
+    text-align: center;
+}
+#abc1{
+    font-size: x-large;
+    text-align: center;
+}
+#form{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.course{
+    border-style: none;
+    border-bottom: 1px solid grey;
+    width: 90%;
+}
+.ab1{
+    width: 50%;
+}
+.name{
+    border-style: none;
+    border-bottom: 1px solid grey;
+    width: 95%;
+}
+.ab2{
+    width: 100%;
+}
+.blur{
+    color: gray;
+}
+#age{
+    border-style: none;
+    border-bottom-style: dotted;
+    width: 90%;
+}
+#date{
+    border-style: none;
+    border-bottom-style: dashed;
+}
+.ab3{
+    border-style: none;
+    border-bottom: 1px solid grey;
+    width: 95%;
+}
+.ab4{
+    text-align: justify;
+    font-size: 18px;
+}
+.agree{
+    font-size: 18px;
+}
+#submit{
+    border-style: none;
+    color: white;
+    padding: 10px;
+    box-shadow:  blue;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: blue;
+    margin-top: 20px;
+}
+#bottom{
+    text-align: center;
+    color: gray;    
+}
+#robot{
+    border: 1px solid gray;
+    padding-left: 20px;
+    background-color: lightgray;
+}
+.rob{    
+    font-size: 18px;
+    padding-left: 20px;
+}
+#img{
+    margin-left: 100px;
+}
+#priority{
+    background-color: whitesmoke;
+}
